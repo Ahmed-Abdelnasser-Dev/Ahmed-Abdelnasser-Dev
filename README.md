@@ -2,7 +2,6 @@
 
 > *"You don't have to write perfect code to make a fun game."* 🎮  
 
----
 
 ## 🧙 Character's Bio  
 > *Narrated by FakeMC (the alter ego)*  
@@ -12,14 +11,12 @@ Armed with persistence, adaptability, and a dreamer’s spirit, his quest is to 
 
 ⚠️ *One more thing: Don’t call him Ahmed, only **Abdelnasser***.  
 
----
 
 ## 📍 Location  
 🏠 Currently based in **Ismailia, EG**  
 🌍 Origin story: **Abu Dhabi, UAE**  
 🪪 Nationality: **Egyptian** 🇪🇬  
 
----
 
 ## 🗣️ Languages I Speak  
 - Arabic (native) 🐪  
@@ -42,14 +39,12 @@ Armed with persistence, adaptability, and a dreamer’s spirit, his quest is to 
 #### Version Control & OS  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)  
 
----
 
 ## 🎯 Current Quests  
 - 🕳️ **Orbit** – Habit Tracker App  
 - 👓 **Eyconic** – AR Glasses Companion App  
 - 🛒 **Abdo Store** – Grocery Delivery App  
 
----
 
 ## 🌱 Currently Leveling Up  
 - Backend development 🛡️  
@@ -57,13 +52,9 @@ Armed with persistence, adaptability, and a dreamer’s spirit, his quest is to 
 - Game development 🎮  
 - German language skills 📜  
 
----
 
 ## 📫 Credits  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmed-Abdelnasser-Dev)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-abdelnasser-hassane)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedabdelnasser.dev@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmed-Abdelnasser-Dev)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-abdelnasser-hassane)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedabdelnasser.dev@gmail.com)  
 
----
 
-⭐️ Character Created by [Abdelnasser](https://github.com/Ahmed-Abdelnasser-Dev)  
+
