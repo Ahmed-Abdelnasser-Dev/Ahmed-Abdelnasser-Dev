@@ -52,9 +52,7 @@ Armed with persistence, adaptability, and a dreamer’s spirit, his quest is to 
 ---
 
 ## 📊 Player Stats  
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Abdelnasser-Dev&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Abdelnasser-Dev&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Abdelnasser-Dev&theme=tokyonight)  
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Abdelnasser-Dev&show_icons=true&theme=tokyonight)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Abdelnasser-Dev&layout=compact&theme=tokyonight)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Abdelnasser-Dev&theme=tokyonight)  
 
 ---
 
