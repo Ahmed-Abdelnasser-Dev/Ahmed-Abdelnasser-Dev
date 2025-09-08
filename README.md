@@ -4,7 +4,7 @@
 
 ---
 
-## 🧙 About Me  
+## 🧙 Character's Bio  
 > *Narrated by FakeMC (the alter ego)*  
 Abdelnasser is a **Computer Engineering Student**, a **Flutter Developer**, and a **Future Game Developer**.  
 Born in **Abu Dhabi, UAE**, carrying his **Egyptian heritage 🇪🇬**, and now based in **Ismailia, Egypt** — he walks the path of both code and creativity.  
@@ -48,11 +48,6 @@ Armed with persistence, adaptability, and a dreamer’s spirit, his quest is to 
 - 🕳️ **Orbit** – Habit Tracker App  
 - 👓 **Eyconic** – AR Glasses Companion App  
 - 🛒 **Abdo Store** – Grocery Delivery App  
-
----
-
-## 📊 Player Stats  
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Abdelnasser-Dev&show_icons=true&theme=tokyonight)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Abdelnasser-Dev&layout=compact&theme=tokyonight)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Abdelnasser-Dev&theme=tokyonight)  
 
 ---
 
