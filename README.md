@@ -42,7 +42,7 @@ Armed with persistence, adaptability, and a dreamer’s spirit, his quest is to 
 
 ## 🎯 Current Quests  
 - 🕳️ **Orbit** – Habit Tracker App  
-- 👓 **Eyconic** – AR Glasses Companion App  
+- 🚦 **SafeSpace** – Traffic Assistance App  
 - 🛒 **Abdo Store** – Grocery Delivery App  
 
 
