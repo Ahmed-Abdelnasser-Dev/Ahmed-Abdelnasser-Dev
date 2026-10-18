@@ -48,8 +48,10 @@ Production-ready mobile apps with Clean Architecture, BLoC/Cubit, dependency inj
 
 Web development and UI/UX design: React, Next.js, Node.js, and Figma. I've built operator dashboards, backend services, and client websites alongside my main work.
 
+Linux is my daily driver. I develop on CachyOS, live in the terminal, and handle my own server setup with Docker, shell scripting, and self-hosted deployments.
+
 ## Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=godot,flutter,dart,kotlin,firebase,figma,react,nextjs,ts,nodejs,postgres,docker,git,linux&perline=14" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=godot,flutter,dart,kotlin,firebase,figma,react,nextjs,ts,nodejs,postgres,docker,git,linux,arch,bash&perline=16" alt="Tools" />
 </p>
