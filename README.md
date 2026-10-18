@@ -1,108 +1,70 @@
-# ⚡ Ahmed Abdelnasser – The Chosen One ⚡  
+# ⚡ Ahmed Abdelnasser, The Chosen One ⚡
 
-> *"You don't have to write perfect code to make a fun game."* 🎮  
+> *"You don't have to write perfect code to make a fun game."* 🎮
 
+## 🧙 Character Bio
+> *Narrated by FakeMC, the alter ego*
 
-## 🧙 Character's Bio  
-> *Narrated by FakeMC (the alter ego)*  
-Abdelnasser is a **Computer Engineering Student**, a **Flutter Developer**, and a **Future Game Developer**.  
-Born in **Abu Dhabi, UAE**, carrying his **Egyptian heritage 🇪🇬**, and now based in **Ismailia, Egypt** — he walks the path of both code and creativity.  
-Armed with persistence, adaptability, and a dreamer’s spirit, his quest is to **change the game development industry in Egypt**.  
+Abdelnasser is a **Computer Engineering student** at Suez Canal University, a **Flutter developer**, and a **game developer** in the making.
+Born in **Abu Dhabi, UAE**, raised on his **Egyptian heritage 🇪🇬**, and now based in **Ismailia, Egypt**, he walks the path of both code and creativity.
+His quest: **change the game development industry in Egypt.**
 
-⚠️ *One more thing: Don’t call him Ahmed, only **Abdelnasser***.  
+⚠️ *One more thing: don't call him Ahmed. Only **Abdelnasser**.*
 
+## 🏆 Featured Quests
 
-## 📍 Location  
-🏠 Currently based in **Ismailia, EG**  
-🌍 Origin story: **Abu Dhabi, UAE**  
-🪪 Nationality: **Egyptian** 🇪🇬  
+| Project | What it is | Stack |
+|---|---|---|
+| 🚦 **[SafeSpace](https://github.com/Ahmed-Abdelnasser-Dev/safespace-central-unit-backend)** | AI-powered highway accident detection and emergency response. Graduation project. | Flutter · Node.js · React · PostgreSQL · YOLOv8 |
+| 🤿 **[One Breath Down](https://github.com/Ahmed-Abdelnasser-Dev/one-breath-down)** | Pearl diving game where your breath is the countdown. GMTK Game Jam 2026. | Godot |
+| 🧛 **[Wanted Nowhere](https://github.com/Ahmed-Abdelnasser-Dev/wanted-nowhere)** | Top-down vampire roguelike with day and night cycles. Pre-alpha. | Godot |
+| 👓 **[Eyeconic](https://github.com/Ahmed-Abdelnasser-Dev/eyconic)** | Companion app for AI smart glasses, powered by Gemini | Flutter |
 
+The SafeSpace system spans four repos: [mobile app](https://github.com/Ahmed-Abdelnasser-Dev/Safe-Space-Companion), [mobile server](https://github.com/Ahmed-Abdelnasser-Dev/Safe-Space-Mobile-Server), [central unit backend](https://github.com/Ahmed-Abdelnasser-Dev/safespace-central-unit-backend), and [operator dashboard](https://github.com/Ahmed-Abdelnasser-Dev/safespace-central-unit-frontend).
 
-## 🗣️ Languages I Speak  
-- Arabic (native) 🐪  
-- English (fluent) 🦅  
-- German (beginner, grinding XP) 🇩🇪  
+## 🎯 Current Quests
+- 🔄 **Rylis Flow**: no-code workflow automation for B2B (WhatsApp, Gmail, Meta, payments)
+- 🕳️ **Orbit**: a life management app for habits, water, meals, prayer, and workouts
+- 🎮 Shipping more games in Godot
 
----
-## 🛠️ Tech Stack  
+## 📜 Experience Log
+- **Software Developer** at Zealnx Marketing Agency (2024 to 2025): led a team of 4 on 20+ client websites
+- **Mobile App Training** at Sprints x Microsoft Summer Camp (2025): Flutter e-commerce app with Clean Architecture
+- **Freelance:** Shopify and WordPress sites for local businesses in Egypt
 
-### Programming Languages  
+## 🛠️ Inventory
+
+**Mobile**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
----
-
-### Web Development  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Web and Backend**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
----
-
-### Mobile Development  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
----
-
-### Backend & Frameworks  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
----
-
-### Databases  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
-### Game Development  
+**Games**
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
----
-
-### Design & Product Tools  
+**Design and Tools**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
----
-
-### Version Control & Operating Systems  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
+## 🗣️ Languages
+Arabic (native) 🐪 · English (fluent) 🦅 · German (beginner, grinding XP) 🇩🇪
 
-## 🎯 Current Quests  
-- 🕳️ **Orbit** – Habit Tracker App  
-- 🚦 **SafeSpace** – Traffic Assistance App
-- 🛒 **Abdo Stores** – Customers App
+## 🌱 Currently Leveling Up
+Backend development 🛡️ · Game development 🎮 · UI/UX design 🎨 · German 📜
 
-
-## 🔒 Locked Quests
-- 🚦 **SafeSpace** – Backend Server
-- 🚦 **SafeSpace** – Frontend Dashboard
-- 🛒 **Abdo Stores** – Backendend Server
-- 🛒 **Abdo Stores** – Delivery App 
-
-
-## 🌱 Currently Leveling Up  
-- Backend development 🛡️  
-- UI/UX design 🎨  
-- Game development 🎮  
-- German language skills 📜  
-
-
-## 📫 Credits  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmed-Abdelnasser-Dev)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-abdelnasser-hassane)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedabdelnasser.dev@gmail.com)  
-
-
-
+## 📫 Send a Raven
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-abdelnasser-hassane)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedabdelnasser.dev@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AbdelnasserXD)
