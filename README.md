@@ -48,7 +48,7 @@ Production-ready mobile apps with Clean Architecture, BLoC/Cubit, dependency inj
 
 Web development and UI/UX design: React, Next.js, Node.js, and Figma. I've built operator dashboards, backend services, and client websites alongside my main work.
 
-I work on Linux (CachyOS) and set up and deploy my own servers with Docker.
+I've used Linux for everything, from development to gaming, for the past two years. I'm currently on CachyOS.
 
 ## Tools
 
