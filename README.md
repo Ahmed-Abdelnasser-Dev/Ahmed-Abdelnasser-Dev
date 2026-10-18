@@ -1,70 +1,52 @@
-# ⚡ Ahmed Abdelnasser, The Chosen One ⚡
+<h1 align="center">Ahmed Abdelnasser</h1>
 
-> *"You don't have to write perfect code to make a fun game."* 🎮
+<p align="center">
+  <b>Software Engineer</b><br>
+  Game Development · Flutter Development<br>
+  Ismailia, Egypt
+</p>
 
-## 🧙 Character Bio
-> *Narrated by FakeMC, the alter ego*
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-abdelnasser-hassane">LinkedIn</a> ·
+  <a href="mailto:ahmedabdelnasser.dev@gmail.com">Email</a> ·
+  <a href="https://x.com/AbdelnasserXD">X</a>
+</p>
 
-Abdelnasser is a **Computer Engineering student** at Suez Canal University, a **Flutter developer**, and a **game developer** in the making.
-Born in **Abu Dhabi, UAE**, raised on his **Egyptian heritage 🇪🇬**, and now based in **Ismailia, Egypt**, he walks the path of both code and creativity.
-His quest: **change the game development industry in Egypt.**
+---
 
-⚠️ *One more thing: don't call him Ahmed. Only **Abdelnasser**.*
+I build games and mobile apps. I'm a Computer Engineering student at Suez Canal University, and I care about clean architecture, polished feel, and shipping things people actually use. Long term, I want to help grow the game development industry in Egypt.
 
-## 🏆 Featured Quests
+## Focus
 
-| Project | What it is | Stack |
-|---|---|---|
-| 🚦 **[SafeSpace](https://github.com/Ahmed-Abdelnasser-Dev/safespace-central-unit-backend)** | AI-powered highway accident detection and emergency response. Graduation project. | Flutter · Node.js · React · PostgreSQL · YOLOv8 |
-| 🤿 **[One Breath Down](https://github.com/Ahmed-Abdelnasser-Dev/one-breath-down)** | Pearl diving game where your breath is the countdown. GMTK Game Jam 2026. | Godot |
-| 🧛 **[Wanted Nowhere](https://github.com/Ahmed-Abdelnasser-Dev/wanted-nowhere)** | Top-down vampire roguelike with day and night cycles. Pre-alpha. | Godot |
-| 👓 **[Eyeconic](https://github.com/Ahmed-Abdelnasser-Dev/eyconic)** | Companion app for AI smart glasses, powered by Gemini | Flutter |
+**Game Development**
+2D games in Godot: gameplay systems, procedural worlds, enemy AI, and game feel. I build for game jams and work on longer projects in between.
 
-The SafeSpace system spans four repos: [mobile app](https://github.com/Ahmed-Abdelnasser-Dev/Safe-Space-Companion), [mobile server](https://github.com/Ahmed-Abdelnasser-Dev/Safe-Space-Mobile-Server), [central unit backend](https://github.com/Ahmed-Abdelnasser-Dev/safespace-central-unit-backend), and [operator dashboard](https://github.com/Ahmed-Abdelnasser-Dev/safespace-central-unit-frontend).
+**Flutter Development**
+Production-ready mobile apps with Clean Architecture, BLoC/Cubit, dependency injection, REST and real-time APIs, offline storage, push notifications, and Arabic/English RTL support.
 
-## 🎯 Current Quests
-- 🔄 **Rylis Flow**: no-code workflow automation for B2B (WhatsApp, Gmail, Meta, payments)
-- 🕳️ **Orbit**: a life management app for habits, water, meals, prayer, and workouts
-- 🎮 Shipping more games in Godot
+## Selected Work
 
-## 📜 Experience Log
-- **Software Developer** at Zealnx Marketing Agency (2024 to 2025): led a team of 4 on 20+ client websites
-- **Mobile App Training** at Sprints x Microsoft Summer Camp (2025): Flutter e-commerce app with Clean Architecture
-- **Freelance:** Shopify and WordPress sites for local businesses in Egypt
+### Games
 
-## 🛠️ Inventory
+| Project | Description |
+|---|---|
+| [One Breath Down](https://github.com/Ahmed-Abdelnasser-Dev/one-breath-down) | A pearl diving game where your held breath is the countdown. Made solo for GMTK Game Jam 2026. |
+| [Wanted Nowhere](https://github.com/Ahmed-Abdelnasser-Dev/wanted-nowhere) | A top-down vampire roguelike with day and night cycles and moon phases. In development. |
 
-**Mobile**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+### Flutter
 
-**Web and Backend**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+| Project | Description |
+|---|---|
+| [SafeSpace Companion](https://github.com/Ahmed-Abdelnasser-Dev/Safe-Space-Companion) | Road safety app for drivers: live map, accident reports, SOS, and push alerts. Part of my graduation project, an AI-powered accident detection system. |
+| [Eyeconic](https://github.com/Ahmed-Abdelnasser-Dev/eyconic) | Companion app for AI smart glasses. Runs a local server on the phone and answers through Gemini. |
+| [Shopping App](https://github.com/Ahmed-Abdelnasser-Dev/shopping_app) | E-commerce app with full auth flow, pagination, search, and Clean Architecture. |
 
-**Games**
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+## Also
 
-**Design and Tools**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+Web development and UI/UX design: React, Next.js, Node.js, and Figma. I've built operator dashboards, backend services, and client websites alongside my main work.
 
-## 🗣️ Languages
-Arabic (native) 🐪 · English (fluent) 🦅 · German (beginner, grinding XP) 🇩🇪
+## Tools
 
-## 🌱 Currently Leveling Up
-Backend development 🛡️ · Game development 🎮 · UI/UX design 🎨 · German 📜
-
-## 📫 Send a Raven
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-abdelnasser-hassane)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedabdelnasser.dev@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AbdelnasserXD)
+<p>
+  <img src="https://skillicons.dev/icons?i=godot,flutter,dart,kotlin,firebase,figma,react,nextjs,ts,nodejs,postgres,docker,git,linux&perline=14" alt="Tools" />
+</p>
