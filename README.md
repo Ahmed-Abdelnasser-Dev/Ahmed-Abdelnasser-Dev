@@ -7,8 +7,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-abdelnasser-hassane">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/ahmed-abdelnasser-hassane/">LinkedIn</a> ·
   <a href="mailto:ahmedabdelnasser.dev@gmail.com">Email</a> ·
+  <a href="https://www.youtube.com/@ItsFakeMC">YouTube</a> ·
+  <a href="https://www.instagram.com/itsfakemc">Instagram</a> ·
+  <a href="https://www.tiktok.com/@itsfakemc">TikTok</a> ·
   <a href="https://x.com/AbdelnasserXD">X</a>
 </p>
 
